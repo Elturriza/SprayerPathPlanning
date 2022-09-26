@@ -1,0 +1,4 @@
+﻿  SprayerPath.c
+C:\Users\ghtur\OneDrive\Documentos\Challenge JohnDeere\SprayerPath\SprayerPath\SprayerPath.c(51,29): warning C4013: 'malloc' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ghtur\OneDrive\Documentos\Challenge JohnDeere\SprayerPath\SprayerPath\SprayerPath.c(94,10): warning C4013: 'free' sin definir; se supone que extern devuelve como resultado int
+  SprayerPath.vcxproj -> C:\Users\ghtur\OneDrive\Documentos\Challenge JohnDeere\SprayerPath\Debug\SprayerPath.exe
